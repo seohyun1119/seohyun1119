@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=160&text=Seohyun's%20Github%20Profile&fontSize=30&fontColor=FAFAFA&fontAlign=75&fontAlignY=40)
 
 <div align="center">
   
@@ -20,4 +20,5 @@
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
- </div>
+
+</div>
